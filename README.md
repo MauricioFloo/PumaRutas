@@ -5,7 +5,7 @@
 - Desarrollar una aplicación  que permita a los estudiantes conocer el tiempo estimado de espera en una parada, así como el tiempo que tardarían en llegar a su destino y la ruta que más le conviene para facilitar la movilidad y la planificación de tiempos dentro de la universidad.
 
 ##### ¿Cómo funciona?
-Se propuso tener una interfaz amigable para el usuario, ya que buscamos que no sea complicado buscar la parada en que te encuentras y a donde quieres llegar. De igual manera colocamos un mapa para que sea más facil ubicar la ruta deseada.
+Se propuso tener una interfaz amigable para el usuario, ya que buscamos que no sea complicado buscar la parada en que te encuentras y a donde quieres llegar. De igual manera colocamos un mapa para que sea más facil ubicar la ruta deseada. 
 
 ##### Lenguaje de Programación
 Decidimos trabar en **C#** ya que es un lenguaje muy completo en donde podemos encontrar:
@@ -17,7 +17,7 @@ Decidimos trabar en **C#** ya que es un lenguaje muy completo en donde podemos e
 - Soporte de la comunidad y documentación abundante: C# cuenta con una comunidad activa de desarrolladores y una amplia cantidad de recursos en línea, incluyendo documentación, tutoriales y foros de discusión. Esto facilita el aprendizaje y la resolución de problemas.
 
 ----------
-#### Paradas
+#### Selección de Rutas y Paradas
 La aplicación funciona con cinco paradas las cuales son:
 
 1. Anexo de Ingeniería
@@ -26,10 +26,19 @@ La aplicación funciona con cinco paradas las cuales son:
 1. Metrobus CU
 1. Metro CU
 
-Una vez escogida la parada donde estas, podras escoger a donde te quieres dirigir pulsando el botón de confirmar. Y ahora si visualizar el tiempo estimado de espera, de llegada del pumabus y el numero correspondiente al pumabus que llegará a la parada donde te encuentras. En nuestro caso trabajamos con las rutas **2** y **4**
-- [Rutas CU](https://www.dgsgm.unam.mx/pumabus.html) 
-> Aquí puedes observar las diferentes rutas que existen en Ciudad Universitaria e idenitificar las que estan agregadas a la aplicación
+El formulario principal permite seleccionar una parada de incio y una parada de destino. Una vez escogidas ambas y confirmando en el botón, saltará una ventana donde podrás visualizar el tiempo estimado de espera, de llegada del pumabus y el numero correspondiente al pumabus que llegará a la parada donde te encuentras. En nuestro caso trabajamos con las rutas **2** y **4**
 
+#### Visualización del mapa
+El botón Mapa muestra como su nombre lo menciona un mapa de las rutas del pumabus en el campus universitario. Este mapa tiene la capacidad de acerca y alejar para una mejor visualización del mismo, ademas de permitir arrastra la imagen para ver distintas partes del mapa,
+- [Rutas CU](https://www.dgsgm.unam.mx/pumabus.html) 
+> Aquí puedes observar las diferentes rutas que existen en Ciudad Universitaria e idenitificar las que estan agregadas a la aplicación.
+
+#### Cálculos de tiempos de espera y tiempos de llegada
+El  formulario Pumarutas1 es el resultado final que muestra las rutas disponibles, los tiempos de espera estimados, los tiempos de llegada y el número de pumabus disponible para la ruta seleccionada entre la parada de incio y la parada de destino.
+
+----------
+##### Funcionalidades adicionales
+- El código también incluye manejo de eventos de botones de "Atención" y "Home" para mostrar direcciones de correo electrónico y trasladarse entre formularios.
 
 
 ----------
