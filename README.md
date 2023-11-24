@@ -1,6 +1,6 @@
 ### PUMA RUTAS          
 
-##### Objetivos
+#### Objetivos
 
 - Desarrollar una aplicación  que permita a los estudiantes conocer el tiempo estimado de espera en una parada, así como el tiempo que tardarían en llegar a su destino y la ruta que más le conviene para facilitar la movilidad y la planificación de tiempos dentro de la universidad.
 
@@ -37,7 +37,7 @@ El botón Mapa muestra como su nombre lo menciona un mapa de las rutas del pumab
 El  formulario Pumarutas1 es el resultado final que muestra las rutas disponibles, los tiempos de espera estimados, los tiempos de llegada y el número de pumabus disponible para la ruta seleccionada entre la parada de incio y la parada de destino.
 
 ----------
-##### Funcionalidades adicionales
+#### Funcionalidades adicionales
 - El código también incluye manejo de eventos de botones de "Atención" y "Home" para mostrar direcciones de correo electrónico y trasladarse entre formularios.
 
 
