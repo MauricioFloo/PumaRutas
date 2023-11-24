@@ -2,7 +2,7 @@
 
 ##### Objetivos
 
-- Desarrollar una aplicación que permita a los estudiantes rastrear en tiempo real la ubicación de los Pumabus y conocer el tiempo de espera estimado en cada parada.
+- Desarrollar una aplicación  que permita a los estudiantes conocer el tiempo estimado de espera en una parada, así como el tiempo que tardarían en llegar a su destino y la ruta que más le conviene para facilitar la movilidad y la planificación de tiempos dentro de la universidad.
 
 ##### ¿Cómo funciona?
 Se propuso tener una interfaz amigable para el usuario, ya que buscamos que no sea complicado buscar la parada en que te encuentras y a donde quieres llegar. De igual manera colocamos un mapa para que sea más facil ubicar la ruta deseada.
