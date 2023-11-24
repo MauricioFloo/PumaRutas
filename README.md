@@ -17,3 +17,5 @@ La aplicación funciona con cinco paradas las cuales son:
 1. Trabajo social
 1. Metrobus CU
 1. Metro CU
+
+Una vez escogida la parada donde estas, podras escoger a donde te quieres dirigir pulsando el botón de confirmar. Y ahora si visualizar el tiempo estimado de espera, de llegada del pumabus y el numero correspondiente al pumabus que llegará a la parada donde te encuentras
