@@ -1,5 +1,5 @@
-### PUMA RUTAS 
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScZ0zK3eIrCg4M-IL4lEt1wSFO98-pCtEDRyjGT9Q_&s)
+### PUMA RUTAS          
+
 ##### Objetivos
 
 - Desarrollar una aplicación que permita a los estudiantes rastrear en tiempo real la ubicación de los Pumabus y conocer el tiempo de espera estimado en cada parada.
@@ -21,3 +21,8 @@ La aplicación funciona con cinco paradas las cuales son:
 Una vez escogida la parada donde estas, podras escoger a donde te quieres dirigir pulsando el botón de confirmar. Y ahora si visualizar el tiempo estimado de espera, de llegada del pumabus y el numero correspondiente al pumabus que llegará a la parada donde te encuentras
 - [Rutas CU](https://www.dgsgm.unam.mx/pumabus.html) 
 > Aquí puedes observar las diferentes rutas que existen en Ciudad Universitaria e idenitificar las que estan agregadas a la aplicación
+
+
+
+----------
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScZ0zK3eIrCg4M-IL4lEt1wSFO98-pCtEDRyjGT9Q_&s)
